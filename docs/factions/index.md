@@ -60,5 +60,11 @@ E --> L
 # Minor Factions
 Smaller factions that have made an appearance or been mentioned in the story of Crossing Red-Helios.
 * Palomar Armourers Guild
+* Arbor Transport Solutions
+* Trident Corporation
+* Karrel-Ivanov
+* Kingsley Aerospace
+* Loray Company
+* Russell-Carrington Aerospace
 
 ----
