@@ -13,4 +13,13 @@ parent: Factions
     <dt>Capital System</dt><dd><a href="../systems/leto/">Leto</a></dd>
 </dl>
 
+The modern counterpart to the [DFU], the FSA works as a high-level governmental body for the frontier. The FSA's primary stated goal is to prevent a second [Frontier Civil War] and to prevent intervention of the great powers within the frontier, although the extent to which it has been successful on that latter point is highly contested. 
+
+## History
+TBD
+
 ----
+
+[DFU]: ./dfu.html
+
+[Frontier Civil War]: ../history/conflicts/frontier_civil_war

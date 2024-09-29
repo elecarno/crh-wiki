@@ -11,5 +11,6 @@ parent: Factions
     <dt>Established</dt><dd>26 AGC</dd>
     <dt>Predecessor(s)</dt><dd><a href="isc.html">ISC</a></dd>
     <dt>Capital System</dt><dd><a href="../systems/aether/">Aether</a></dd>
+    <dt>Currency</dt><dd>RGU Astel</dd>
 </dl>
 ----

@@ -13,4 +13,11 @@ parent: Factions
     <dt>Capital System</dt><dd><a href="../systems/maia/">Maia</a></dd>
 </dl>
 
+Formerly the protectorate of an unknown religious organisation from the Milky Way, the DHP is said to maintain their name in the hopes that their parent faction will one day return to Dracona. The DHP is also known for their extreme secrect - closing off the system of [Maia] to all outsiders, and allowing only its most devout members to land upon the planet of [Haven] itself.
+
 ----
+
+[Maia]: ../systems/maia/
+
+[Haven]: ../systems/maia/haven.html
+
