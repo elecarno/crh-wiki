@@ -10,7 +10,7 @@ parent: Factions
     <dt>Faction Code</dt><dd>FSA</dd>
     <dt>Established</dt><dd>112 AGC</dd>
     <dt>Predecessor(s)</dt><dd><a href="dfu.html">DFU</a></dd>
-    <dt>Capital System</dt><dd><a href="../systems/leto/index.html">Leto</a></dd>
+    <dt>Capital System</dt><dd><a href="../systems/leto/">Leto</a></dd>
 </dl>
 
 ----

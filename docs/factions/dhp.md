@@ -10,7 +10,7 @@ parent: Factions
     <dt>Faction Code</dt><dd>DHP</dd>
     <dt>Established</dt><dd>72 BGC</dd>
     <dt>Predecessor(s)</dt><dd><a href="dfu.html">DFU</a></dd>
-    <dt>Capital System</dt><dd><a href="../systems/maia/index.html">Maia</a></dd>
+    <dt>Capital System</dt><dd><a href="../systems/maia/">Maia</a></dd>
 </dl>
 
 ----

@@ -10,7 +10,7 @@ parent: Factions
     <dt>Faction Code</dt><dd>ISC</dd>
     <dt>Established</dt><dd>Pre-Colonial</dd>
     <dt>Successor(s)</dt><dd><a href="rgu.html">RGU</a>, <a href="snc.html">SNC</a></dd>
-    <dt>Capital System</dt><dd><a href="../systems/aether/index.html">Aether</a></dd>
+    <dt>Capital System</dt><dd><a href="../systems/aether/">Aether</a></dd>
 </dl>
 
 ----
