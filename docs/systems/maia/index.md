@@ -1,15 +1,15 @@
 ---
-title: Venture
+title: Maia
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Maia
 <dl>
-    <dt>Region</dt><dd>Stellar North</dd>
+    <dt>Region</dt><dd>Frontier</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>
-    <dt>Controlled by</dt><dd><a href="../../factions/ndr.html">NDR</a></dd>
+    <dt>Controlled by</dt><dd><a href="../../factions/dhp.html">DHP</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 

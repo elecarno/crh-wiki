@@ -1,15 +1,15 @@
 ---
-title: Venture
+title: Erebus
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Erebus
 <dl>
-    <dt>Region</dt><dd>Stellar North</dd>
+    <dt>Region</dt><dd>Stellar Core</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>
-    <dt>Controlled by</dt><dd><a href="../../factions/ndr.html">NDR</a></dd>
+    <dt>Controlled by</dt><dd><a href="../../factions/etc.html">ETC</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 

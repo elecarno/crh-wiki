@@ -1,11 +1,11 @@
 ---
-title: Venture
+title: Atlas
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Atlas
 <dl>
     <dt>Region</dt><dd>Stellar North</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>

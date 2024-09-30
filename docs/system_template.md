@@ -2,6 +2,7 @@
 title: System Name
 layout: default
 parent: Systems
+has_toc: false
 nav_exclude: true # delete when making page
 ---
 
@@ -14,9 +15,9 @@ nav_exclude: true # delete when making page
 </dl>
 
 ## Planets
-* ///
+* TBD
 
 ## Stations
-* ///
+* TBD
 
 ----

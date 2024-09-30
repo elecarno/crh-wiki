@@ -1,15 +1,14 @@
 ---
-title: Venture
+title: Charon
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Charon
 <dl>
-    <dt>Region</dt><dd>Stellar North</dd>
+    <dt>Region</dt><dd>Stellar West</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>
-    <dt>Controlled by</dt><dd><a href="../../factions/ndr.html">NDR</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 

@@ -1,15 +1,14 @@
 ---
-title: Venture
+title: Muse
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Muse
 <dl>
-    <dt>Region</dt><dd>Stellar North</dd>
+    <dt>Region</dt><dd>Frontier</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>
-    <dt>Controlled by</dt><dd><a href="../../factions/ndr.html">NDR</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 

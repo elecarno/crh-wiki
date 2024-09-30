@@ -1,10 +1,21 @@
 ---
 title: Persephone
 layout: default
-has_toc: false
 parent: Systems
+has_toc: false
 ---
 
-TBD
+# Persephone
+<dl>
+    <dt>Region</dt><dd>Stellar West</dd>
+    <dt>Connections (CAS Network)</dt><dd>///</dd>
+    <dt>Population</dt><dd>///</dd>
+</dl>
+
+## Planets
+* TBD
+
+## Stations
+* TBD
 
 ----

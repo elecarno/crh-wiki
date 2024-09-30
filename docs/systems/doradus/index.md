@@ -1,11 +1,11 @@
 ---
-title: Venture
+title: Doradus
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Doradus
 <dl>
     <dt>Region</dt><dd>Stellar North</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>

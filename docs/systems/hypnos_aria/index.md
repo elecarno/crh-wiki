@@ -1,15 +1,15 @@
 ---
-title: Venture
+title: Hypnos Aria
 layout: default
 parent: Systems
 has_toc: false
 ---
 
-# Venture
+# Hypnos Aria
 <dl>
     <dt>Region</dt><dd>Stellar North</dd>
     <dt>Connections (CAS Network)</dt><dd>///</dd>
-    <dt>Controlled by</dt><dd><a href="../../factions/ndr.html">NDR</a></dd>
+    <dt>Controlled by</dt><dd><a href="../../factions/SNC.html">SNC</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 
