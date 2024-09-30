@@ -1,8 +1,8 @@
 ---
-title: Venture
+title: Frontier Civil War
 layout: default
 has_toc: false
-parent: Systems
+parent: Conflicts
 ---
 
 TBD

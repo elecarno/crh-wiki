@@ -1,8 +1,8 @@
 ---
-title: Venture
+title: Embers Campaign
 layout: default
 has_toc: false
-parent: Systems
+parent: Events
 ---
 
 TBD

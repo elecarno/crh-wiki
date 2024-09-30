@@ -1,8 +1,8 @@
 ---
-title: Venture
+title: Battle for Dione
 layout: default
 has_toc: false
-parent: Systems
+parent: Events
 ---
 
 TBD

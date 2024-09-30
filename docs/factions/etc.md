@@ -23,7 +23,7 @@ In 34 BGC the [DFU] launched an attack on the then GTC, disrupting the Draconan 
 
 When the [CAS] withdrew from Dracona in 30 BGC, control of Erebus was handed over to the GTC. Erebus would later become the capital system of the faction and the GTC renamed to the Erebus Trade Corporation after Geras was devastated during the [Frontier Civil War].
 
-The ETC would again be attacked by the [SNC] in 82 AGC, only surviving due to re-inforcements from the [SSF] and [RGU].
+The ETC would again be attacked by the [SNC] in 82 AGC, only surviving due to re-inforcements from the [SSF] and [RGU], and once more in 159 AGC where the Erebus system was captured by [SNC] forces with the system being liberated during [Operation Scorched Stars] in 164 AGC.
 
 ----
 
@@ -34,3 +34,4 @@ The ETC would again be attacked by the [SNC] in 82 AGC, only surviving due to re
 [RGU]: ./rgu.html
 
 [Frontier Civil War]: ../history/conflicts/frontier_civil_war
+[Operation Scorched Stars]: ../history/events/operation_scorched_stars

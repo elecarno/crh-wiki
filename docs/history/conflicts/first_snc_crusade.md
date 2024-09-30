@@ -1,8 +1,8 @@
 ---
-title: Venture
+title: First SNC Crusade
 layout: default
 has_toc: false
-parent: Systems
+parent: Conflicts
 ---
 
 TBD

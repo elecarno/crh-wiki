@@ -10,7 +10,6 @@ The history of the Draconis Cluster has been divided into two eras:
 * AGC (After Gate Closure) - denoting the years after the closure of the connection to the Milky Way galaxy.
 
 ## Notable Conflicts & Events
-* [CAS Refugee Crisis](./events/cas_refugee_crisis.html)
 * [Colonial Collapse](./events/colonial_collapse.html)
 * [Frontier Civil War](./conflicts/frontier_civil_war.html)
 * [Frontier Independence War](./conflicts/frontier_independence_war.html)
@@ -32,7 +31,7 @@ The history of the Draconis Cluster has been divided into two eras:
     <dt>34</dt><dd>[Mycan Blitz]</dd>
     <dt>30</dt><dd>[CAS] officially withdraws from the Draconis Cluster.</dd>
     <dt>24</dt><dd>The [CAS] collapses in the Milky Way. Traffic to the Draconis Cluster drops sharply. Draconic CAS withdraws from Charon.</dd>
-    <dt>21</dt><dd>Draconic CAS collapses, CAS Refugee Crisis begins.</dd>
+    <dt>21</dt><dd>Draconic CAS collapses, [CAS Refugee Crisis] begins.</dd>
     <dt>17</dt><dd>[ISC] cuts off its connections to its Dracona subsidiary. Draconic [ISC] changes name to Draconic Star Crown.</dd>
     <dt>8</dt><dd>Economic collapse begins in Dracona due to overpopulation, factions begin withdrawing from extraneous systems. People begin fleeing the Cluster.</dd>
 </dl>
@@ -49,11 +48,34 @@ The history of the Draconis Cluster has been divided into two eras:
     <dt>20</dt><dd>ISC withdraws from the [SSF-ISC Alliance]</dd>
     <dt>25</dt><dd>[Battle for Edgebreaker Station]</dd>
     <dt>26</dt><dd>[ISC] is reformed into the [RGU]</dd>
-    <dt>31</dt><dd>[Battle for Komorebi]</dd>
-    <dt>32</dt><dd></dd>
-    <dt>41</dt><dd></dd>
-    <dt>45</dt><dd></dd>
-    <dt>50</dt><dd></dd>
+    <dt>31</dt><dd>[Battle for Komorebi], end of the [Frontier Civil War]</dd>
+    <dt>32</dt><dd>[DFU] Collapses. The [FHC] claims the Myca system and renames it to [New Helios].</dd>
+    <dt>41</dt><dd>The [DHP] closes the [Maia] system.</dd>
+    <dt>45</dt><dd>Formation of the [SNC].</dd>
+    <dt>50</dt><dd>Construction of the [Temple of Judgement]</dd>
+    <dt>53</dt><dd>Beginning of the [Lockhart Campaign]</dd>
+    <dt>58</dt><dd>Election of [Vine Conan] in [Hypnos Organa]</dd>
+    <dt>67</dt><dd>Beginning of the [First SNC Crusade]</dd>
+    <dt>72</dt><dd>[Invasion of Hypnos Aria]</dd>
+    <dt>73</dt><dd>[Stellar Current]</dd>
+    <dt>76</dt><dd>[Invasion of Hypnos Organa]</dd>
+    <dt>80</dt><dd>[SNC] control Hypnos Organa.</dd>
+    <dt>82</dt><dd>[Battle for Erebus], end of the [First SNC Crusade]</dd>
+    <dt>83</dt><dd>[ETC] withdraws from Geras.</dd>
+    <dt>112</dt><dd>Formation of the [FSA]</dd>
+    <dt>134</dt><dd>Beginning of the [Derson Campaign]</dd>
+    <dt>153</dt><dd>Beginning of the [Second SNC Crusade]</dd>
+    <dt>155</dt><dd>[Blockade of Erebus]</dd>
+    <dt>158</dt><dd>[Invasion of the RGU]</dd>
+    <dt>159</dt><dd>[Fall of Erebus]</dd>
+    <dt>163</dt><dd>[Battle for Dione]</dd>
+    <dt>164</dt><dd>[Operation Scorched Stars], end of the [Second SNC Crusade]</dd>
+    <dt>172</dt><dd>Restoration of the [CAS network] (with the exception of the Persephone).</dd>
+    <dt>174</dt><dd>Collapse of the [SSF], formation of the [NDR]</dd>
+    <dt>176</dt><dd>Beginning of the [Embers Campaign]</dd>
+    <dt>182</dt><dd>[Embers Campaign] is declared successful.</dd>
+    <dt>194</dt><dd>Formation of the [RHA]</dd>
+    <dt>214</dt><dd>(Beginning of CRH)</dd>
 </dl>
 
 ----

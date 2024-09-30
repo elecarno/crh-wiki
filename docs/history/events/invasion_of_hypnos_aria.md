@@ -1,8 +1,8 @@
 ---
-title: Venture
+title: Invasion of Hypno Aria
 layout: default
 has_toc: false
-parent: Systems
+parent: Events
 ---
 
 TBD
