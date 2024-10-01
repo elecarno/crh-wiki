@@ -5,6 +5,17 @@ has_toc: false
 parent: Conflicts
 ---
 
-TBD
+# Second SNC Crusade (153 - 184 AGC)
+
+| Belligerents        | |
+|:-------------|:------------------|
+| [SNC], [FHC], [FSA] | [SSF], [RGU], [ETC] |
 
 ----
+
+[SNC]: ../../factions/snc.html
+[SSF]: ../../factions/ssf.html
+[RGU]: ../../factions/rgu.html
+[ETC]: ../../factions/etc.html
+[FHC]: ../../factions/fhc.html
+[FSA]: ../../factions/fsa.html

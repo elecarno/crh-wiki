@@ -10,7 +10,7 @@ parent: Factions
     <dt>Faction Code</dt><dd>CAS</dd>
     <dt>Established</dt><dd>Pre-Colonial</dd>
     <dt>Successor(s)</dt><dd><a href="snc.html">SNC</a>, <a href="rha.html">RHA</a></dd>
-    <dt>Capital System</dt><dd><a href="../systems/hypnos_organa/">Hypnos Organa</a></dd>
+    <dt>Capital System</dt><dd><a href="../systems/charon/">Charon</a></dd>
 </dl>
 
 Despite spearheading the colonisation of the Draconis Cluster in both funding and manpower, the CAS remains as one of the most elusive and mysterious factions in the history of Dracona. Formerly a major power in the Milky Way galaxy, the CAS controlled an ancient religion said to have originated from the home system of humanity itself, with many of the systems in Dracona eventually coming to be named after the various deities of this religion.
