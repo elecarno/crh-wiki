@@ -22,3 +22,5 @@ It is unknown exactly which factions fired the first rounds, yet it is believed 
 [Leto]: ../../systems/leto/
 
 [False Promise]: ../../culture/movements/false_promise.html
+
+[Gate Closure]: ../../history/events/gate_closure.html
