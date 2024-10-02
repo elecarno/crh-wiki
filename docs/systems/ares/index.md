@@ -9,7 +9,7 @@ has_toc: false
 <dl>
     <dt>Region</dt><dd>Stellar North</dd>
     <dt>CAS Connections</dt><dd><a href="../hypnos_aria/">Hypnos Aria</a>, <a href="../doradus/">Doradus</a></dd>
-    <dt>Population</dt><dd>///</dd>
+    <!-- <dt>Population</dt><dd>///</dd> -->
 </dl>
 
 ## Planets

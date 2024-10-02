@@ -8,8 +8,8 @@ has_toc: false
 # Moros
 <dl>
     <dt>Region</dt><dd>Stellar Core</dd>
-    <dt>Connections (CAS Network)</dt><dd>///</dd>
-    <dt>Population</dt><dd>///</dd>
+    <dt>CAS Connections</dt><dd><a href="../dione/">Dione</a>, <a href="../Erebus/">Erebus</a>, <a href="../new_helios/">New Helios</a>, <a href="../moros/">Moros</a></dd>
+    <!-- <dt>Population</dt><dd>///</dd> -->
 </dl>
 
 ## Planets
