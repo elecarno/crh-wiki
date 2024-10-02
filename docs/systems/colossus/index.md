@@ -8,7 +8,7 @@ has_toc: false
 # Colossus
 <dl>
     <dt>Region</dt><dd>Stellar West</dd>
-    <dt>Connections (CAS Network)</dt><dd>///</dd>
+    <dt>CAS Connections</dt><dd><a href="../hades/">Hades</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 

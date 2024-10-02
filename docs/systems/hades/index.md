@@ -8,7 +8,7 @@ has_toc: false
 # Hades
 <dl>
     <dt>Region</dt><dd>Stellar West</dd>
-    <dt>Connections (CAS Network)</dt><dd>///</dd>
+    <dt>CAS Connections</dt><dd><a href="../colossus/">Colossus</a>, <a href="../charon/">Charon</a></dd>
     <dt>Population</dt><dd>///</dd>
 </dl>
 
