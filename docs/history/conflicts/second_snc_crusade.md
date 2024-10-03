@@ -3,6 +3,7 @@ title: Second SNC Crusade
 layout: default
 has_toc: false
 parent: Conflicts
+nav_order: 4
 ---
 
 # Second SNC Crusade (153 - 184 AGC)

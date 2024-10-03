@@ -42,13 +42,13 @@ The history of the Draconis Cluster has been divided into two eras:
     <dt>5</dt><dd>Beginning of the [Frontier Civil War]</dd>
     <dt>9</dt><dd>[Operation Crossroads]</dd>
     <dt>12</dt><dd>[SSF-ISC Alliance]</dd>
-    <dt>14</dt><dd>[Invasion of the Frontier]</dd>
+    <dt>14</dt><dd>[Invasion of the Frontier], beginning of the [Frontier Independence War]</dd>
     <dt>15</dt><dd>Formation of the [FHC]</dd>
     <dt>18</dt><dd>[Destabilisation of the ISC]</dd>
     <dt>20</dt><dd>ISC withdraws from the [SSF-ISC Alliance]</dd>
     <dt>25</dt><dd>[Battle for Edgebreaker Station]</dd>
     <dt>26</dt><dd>[ISC] is reformed into the [RGU]</dd>
-    <dt>31</dt><dd>[Battle for Komorebi], end of the [Frontier Civil War]</dd>
+    <dt>31</dt><dd>[Battle for Komorebi], end of the [Frontier Independence War]</dd>
     <dt>32</dt><dd>[DFU] Collapses. The [FHC] claims the Myca system and renames it to [New Helios].</dd>
     <dt>41</dt><dd>The [DHP] closes the [Maia] system.</dd>
     <dt>45</dt><dd>Formation of the [SNC].</dd>

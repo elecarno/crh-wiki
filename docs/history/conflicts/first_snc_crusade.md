@@ -3,6 +3,7 @@ title: First SNC Crusade
 layout: default
 has_toc: false
 parent: Conflicts
+nav_order: 3
 ---
 
 # First SNC Crusade (67 - 82 AGC)
