@@ -6,7 +6,6 @@ parent: Characters
 ---
 
 # Q.
-# Armin Cole
 <dl>
     <dt>Faction</dt><dd>Unknown</dd>
     <!-- <dt>Born</dt><dd>///</dd> -->
