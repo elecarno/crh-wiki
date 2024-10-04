@@ -13,7 +13,7 @@ has_toc: false
 </dl>
 
 ## Planets & Moons
-* Estrade
+* [Estrade](./estrade/)
 
 <!-- ## Stations
 * TBD -->
