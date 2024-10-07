@@ -43,21 +43,21 @@ The history of the Draconis Cluster has been divided into two eras:
     <dt>9</dt><dd><a href="../history/events/operation_crossroads.html">Operation Crossroads</a></dd>
     <dt>12</dt><dd>[SSF-ISC Alliance]</dd>
     <dt>14</dt><dd><a href="../history/events/invasion_of_the_frontier.html">Invasion of the Frontier</a>, beginning of the <a href="../history/conflicts/frontier_independence_war.html">Frontier Independence War</a></dd>
-    <dt>15</dt><dd>Formation of the [FHC]</dd>
-    <dt>18</dt><dd>[Destabilisation of the ISC]</dd>
+    <dt>15</dt><dd>Formation of the <a href="../factions/fhc.html">FHC</a></dd>
+    <dt>18</dt><dd><a href="../history/events/destabilisation_of_the_isc.html">Destabilisation of the ISC</a></dd>
     <dt>20</dt><dd>ISC withdraws from the [SSF-ISC Alliance]</dd>
-    <dt>25</dt><dd>[Battle for Edgebreaker Station]</dd>
-    <dt>26</dt><dd>[ISC] is reformed into the [RGU]</dd>
-    <dt>31</dt><dd>[Battle for Komorebi], end of the [Frontier Independence War]</dd>
-    <dt>32</dt><dd>[DFU] Collapses. The [FHC] claims the Myca system and renames it to [New Helios].</dd>
-    <dt>41</dt><dd>The [DHP] closes the [Maia] system.</dd>
-    <dt>45</dt><dd>Formation of the [SNC].</dd>
-    <dt>50</dt><dd>Construction of the [Temple of Judgement]</dd>
-    <dt>53</dt><dd>Beginning of the [Lockhart Campaign]</dd>
-    <dt>58</dt><dd>Election of [Vine Conan] in [Hypnos Organa]</dd>
-    <dt>67</dt><dd>Beginning of the [First SNC Crusade]</dd>
-    <dt>72</dt><dd>[Invasion of Hypnos Aria]</dd>
-    <dt>73</dt><dd>[Stellar Current]</dd>
+    <dt>25</dt><dd><a href="../history/events/battle_for_edgebreaker_station.html">Battle for Edgebreaker Station</a></dd>
+    <dt>26</dt><dd><a href="../factions/isc.html">ISC</a> is reformed into the <a href="../factions/rgu.html">RGU</a></dd>
+    <dt>31</dt><dd><a href="../history/events/battle_for_komorebi.md">Battle for Komorebi</a>, end of the <a href="../history/conflicts/frontier_independence_war.md">Frontier Independence War</a></dd>
+    <dt>32</dt><dd><a href="../factions/dfu.html">DFU</a> Collapses. The <a href="../factions/fhc.html">FHC</a> claims the Myca system and renames it to <a href="../systems/new_helios/">New Helios</a>.</dd>
+    <dt>41</dt><dd>The <a href="../factions/dfu.html">DFU</a>  closes the <a href="../systems/maia/">Maia</a> system.</dd>
+    <dt>45</dt><dd>Formation of the <a href="../factions/snc.html">SNC</a>.</dd>
+    <dt>50</dt><dd>Construction of the <a href="../systems/persephone/temple_of_judgement.html">Temple of Judgement</a></dd>
+    <dt>53</dt><dd>Beginning of the <a href="../history/events/lockhart_campaign.html">Lockhart Campaign</a></dd>
+    <dt>58</dt><dd>Election of <a href="../characters/vine_conan.html">Vine Conan</a> in <a href="../systems/hypnos_organa/">Hypnos Organa</a></dd>
+    <dt>67</dt><dd>Beginning of the <a href="../history/conflicts/first_snc_crusade.html">First SNC Crusade</a></dd>
+    <dt>72</dt><dd><a href="../history/events/invasion_of_hypnos_aria.html">Invasion of Hypnos Aria</a></dd>
+    <dt>73</dt><dd><a href="../history/events/stellar_current.html">Stellar Current</a></dd>
     <dt>76</dt><dd>[Invasion of Hypnos Organa]</dd>
     <dt>80</dt><dd>[SNC] control Hypnos Organa.</dd>
     <dt>82</dt><dd>[Battle for Erebus], end of the [First SNC Crusade]</dd>

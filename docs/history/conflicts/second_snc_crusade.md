@@ -35,4 +35,7 @@ The Second SNC Crusade was a religious and territorial campaign launched by the 
 
 [First SNC Crusade]: ./first_snc_crusade.html
 
-[Stellar North]: 
+[Stellar North]: ../../systems/
+[West]: ../../systems/
+[Core]: ../../systems/
+[Stellar Core]: ../../systems/
