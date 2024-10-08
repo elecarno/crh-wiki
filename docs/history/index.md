@@ -39,13 +39,13 @@ The history of the Draconis Cluster has been divided into two eras:
 **AGC Era**
 <dl>
     <dt>1</dt><dd>The decision is made to close the gate to prevent further damage in the Milky Way, all faction subsidiaries in Dracona are left to fend for themselves.</dd>
-    <dt>5</dt><dd>Beginning of the <a href="../history/conflicts/frontier_civil_war.md">Frontier Civil War</a></dd>
+    <dt>5</dt><dd>Beginning of the <a href="../history/conflicts/frontier_civil_war.html">Frontier Civil War</a></dd>
     <dt>9</dt><dd><a href="../history/events/operation_crossroads.html">Operation Crossroads</a></dd>
-    <dt>12</dt><dd>SSF-ISC Alliance</dd>
+    <dt>12</dt><dd>Formation of the <a href="../history/events/ssf_isc_alliance.html">SSF-ISC Alliance</a></dd>
     <dt>14</dt><dd><a href="../history/events/invasion_of_the_frontier.html">Invasion of the Frontier</a>, beginning of the <a href="../history/conflicts/frontier_independence_war.html">Frontier Independence War</a></dd>
     <dt>15</dt><dd>Formation of the <a href="../factions/fhc.html">FHC</a></dd>
     <dt>18</dt><dd><a href="../history/events/destabilisation_of_the_isc.html">Destabilisation of the ISC</a></dd>
-    <dt>20</dt><dd>ISC withdraws from the SSF-ISC Alliance</dd>
+    <dt>20</dt><dd>ISC withdraws from the <a href="../history/events/ssf_isc_alliance.html">SSF-ISC Alliance</a></dd>
     <dt>25</dt><dd><a href="../history/events/battle_for_edgebreaker_station.html">Battle for Edgebreaker Station</a></dd>
     <dt>26</dt><dd><a href="../factions/isc.html">ISC</a> is reformed into the <a href="../factions/rgu.html">RGU</a></dd>
     <dt>31</dt><dd><a href="../history/events/battle_for_komorebi.md">Battle for Komorebi</a>, end of the <a href="../history/conflicts/frontier_independence_war.md">Frontier Independence War</a></dd>

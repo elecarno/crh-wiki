@@ -14,7 +14,7 @@ nav_order: 2
 
 With an almost seamless transition from the [Frontier Civil War], the Frontier Independence War initially started as an invasion of the [Frontier] by an alliance formed between the [SSF] and [ISC], with the two factions seeking to take advantage of the deteriorating state of the [DFU] to attempt to sieze control of the [Frontier].
 
-The initial invasion by the [SSF]-[ISC] alliance would eventually become an all out war when [Jane Artell] united the [Free Helion Peoples](../../factions/fhc.html) into the [FHC] and rallied the remaining [DFU] factions to defend the sovereignty of the [Frontier].
+The initial invasion by the [SSF-ISC alliance] would eventually become an all out war when [Jane Artell] united the [Free Helion Peoples](../../factions/fhc.html) into the [FHC] and rallied the remaining [DFU] factions to defend the sovereignty of the [Frontier].
 
 ## Timeline (AGC)
 <dl>
@@ -26,7 +26,6 @@ The initial invasion by the [SSF]-[ISC] alliance would eventually become an all 
     <dt>26</dt><dd><a href="../../factions/isc.html">ISC</a> is reformed into the <a href="../../factions/rgu.html">RGU</a></dd>
     <dt>31</dt><dd><a href="../events/battle_for_komorebi.md">Battle for Komorebi</a>, end of the <a href="./frontier_independence_war.md">Frontier Independence War</a></dd>
 </dl>
-
 ----
 
 [DFU]: ../../factions/dfu.html
@@ -40,3 +39,5 @@ The initial invasion by the [SSF]-[ISC] alliance would eventually become an all 
 
 [BGC]: ../../history/#history
 [AGC]: ../../history/#history
+
+[SSF-ISC alliance]: ../../history/events/ssf-isc-alliance

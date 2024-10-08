@@ -5,6 +5,10 @@ has_toc: false
 parent: Events
 ---
 
-TBD
+# Invasion of the Frontier (14 [AGC])
+
 
 ----
+
+[BGC]: ../../history/#history
+[AGC]: ../../history/#history
