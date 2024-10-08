@@ -6,7 +6,7 @@ parent: Conflicts
 nav_order: 3
 ---
 
-# First SNC Crusade (67 - 82 AGC)
+# First SNC Crusade (67 - 82 [AGC])
 
 | Belligerents        | |
 |:-------------|:------------------|
@@ -16,12 +16,12 @@ The First SNC Crusade was a religious and territorial conquest by the [SNC] agai
 
 ## Timeline
 <dl>
-    <dt>67</dt><dd>Beginning of the [First SNC Crusade]</dd>
-    <dt>72</dt><dd>[Invasion of Hypnos Aria]</dd>
-    <dt>73</dt><dd>[Stellar Current]</dd>
-    <dt>76</dt><dd>[Invasion of Hypnos Organa]</dd>
-    <dt>80</dt><dd>[SNC] control Hypnos Organa.</dd>
-    <dt>82</dt><dd>[Battle for Erebus], end of the [First SNC Crusade]</dd>
+    <dt>67</dt><dd>Beginning of the <a href="./first_snc_crusade.html">First SNC Crusade</a></dd>
+    <dt>72</dt><dd><a href="../events/invasion_of_hypnos_aria.html">Invasion of Hypnos Aria</a></dd>
+    <dt>73</dt><dd><a href="../events/stellar_current.html">Stellar Current</a></dd>
+    <dt>76</dt><dd><a href="../events/invasion_hypnos_organa.html">Invasion of Hypnos Organa</a></dd>
+    <dt>80</dt><dd><a href="....//factions/snc.html">SNC</a> control Hypnos Organa.</dd>
+    <dt>82</dt><dd><a href="../events/battle_for_erebus.html">Battle for Erebus</a>, end of the <a href="./first_snc_crusade.html">First SNC Crusade</a></dd>
 </dl>
 
 ----

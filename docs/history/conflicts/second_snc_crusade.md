@@ -6,7 +6,7 @@ parent: Conflicts
 nav_order: 4
 ---
 
-# Second SNC Crusade (153 - 184 AGC)
+# Second SNC Crusade (153 - 184 [AGC])
 
 | Belligerents        | |
 |:-------------|:------------------|
@@ -16,12 +16,12 @@ The Second SNC Crusade was a religious and territorial campaign launched by the 
 
 ## Timeline
 <dl>
-    <dt>153</dt><dd>Beginning of the [Second SNC Crusade]</dd>
-    <dt>155</dt><dd>[Blockade of Erebus]</dd>
-    <dt>158</dt><dd>[Invasion of the RGU]</dd>
-    <dt>159</dt><dd>[Fall of Erebus]</dd>
-    <dt>163</dt><dd>[Battle for Dione]</dd>
-    <dt>164</dt><dd>[Operation Scorched Stars], end of the [Second SNC Crusade]</dd>
+    <dt>153</dt><dd>Beginning of the <a href="./second_snc_crusade.html">Second SNC Crusade</a></dd>
+    <dt>155</dt><dd><a href="../events/blockade_of_erebus.html">Blockade of Erebus</a></dd>
+    <dt>158</dt><dd><a href="../events/invasion_of_the_rgu.html">Invasion of the RGU</a></dd>
+    <dt>159</dt><dd><a href="../events/fall_of_erebus.html">Fall of Erebus</a></dd>
+    <dt>163</dt><dd><a href="../events/battle_for_dione.html">Battle for Dione</a></dd>
+    <dt>164</dt><dd><a href="..//events/operation_scorched_stars.html">Operation Scorched Stars</a>, end of the <a href="./second_snc_crusade.html">Second SNC Crusade</a></dd>
 </dl>
 
 ----
@@ -39,3 +39,6 @@ The Second SNC Crusade was a religious and territorial campaign launched by the 
 [West]: ../../systems/
 [Core]: ../../systems/
 [Stellar Core]: ../../systems/
+
+[BGC]: ../../history/#history
+[AGC]: ../../history/#history

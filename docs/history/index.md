@@ -10,11 +10,11 @@ The history of the Draconis Cluster has been divided into two eras:
 * AGC (After Gate Closure) - denoting the years after the closure of the connection to the Milky Way galaxy.
 
 ## Notable Conflicts & Events
-* Colonial Collapse(./events/colonial_collapse.html)
-* Frontier Civil War(./conflicts/frontier_civil_war.html)
-* Frontier Independence War(./conflicts/frontier_independence_war.html)
-* First SNC Crusade(./conflicts/first_snc_crusade.html)
-* Second SNC Crusade(./conflicts/second_snc_crusade.html)
+* [Colonial Collapse](./events/colonial_collapse.html)
+* [Frontier Civil War](./conflicts/frontier_civil_war.html)
+* [Frontier Independence War](./conflicts/frontier_independence_war.html)
+* [First SNC Crusade](./conflicts/first_snc_crusade.html)
+* [Second SNC Crusade](./conflicts/second_snc_crusade.html)
 
 ## Timeline
 **BGC Era**
