@@ -81,6 +81,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="./events/gate_closure.html">Gate Closure</a>
     </dd>
     <dt>3</dt><dd>
+        Publication of <a href="../culture/literature/the_false_promise.html"><i>The False Promise</i></a><br>
         Emergence of <a href="../culture/movements/false_promise.html">False Promise</a>
     </dd>
     <dt>5</dt>
