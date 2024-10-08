@@ -3,6 +3,7 @@ title: CAS Refugee Crisis
 layout: default
 has_toc: false
 parent: Events
+nav_order: -21
 ---
 
 # CAS Refugee Crisis (21 [BGC])
