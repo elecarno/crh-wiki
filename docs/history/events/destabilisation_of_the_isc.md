@@ -21,5 +21,5 @@ This sentiment was first solidified with the formation of the [Clear Cascadian S
 
 [Frontier Independence War]: ../../history/conflicts/frontier_independence_war.html
 
-[Clear Cascadian Skies]: ../../culture/movements/clear_skies.html#cascadian
+[Clear Cascadian Skies]: ../../culture/movements/clear_skies.html#clear-cascadian
 [Clear Skies]: ../../culture/movements/clear_skies.html
