@@ -88,7 +88,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <dd>Beginning of the <a href="./conflicts//frontier_civil_war.html">Frontier Civil War</a>
     </dd>
     <dt>9</dt><dd>
-        <a href="./events/operation_crossroads.html">Operation Crossroads</a>
+        <a href="./events/crossroads.html">Crossroads</a>
     </dd>
     <dt>12</dt><dd>
         Formation of the <a href="./events/ssf_isc_alliance.html">SSF-ISC Alliance</a>
@@ -181,7 +181,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="./events/battle_for_dione.html">Battle for Dione</a>
     </dd>
     <dt>164</dt><dd>
-        <a href="./events/operation_scorched_stars.html">Operation Scorched Stars</a><br>
+        <a href="./events/scorched_stars.html">Scorched Stars</a><br>
         End of the <a href="./conflicts/second_snc_crusade.html">Second SNC Crusade</a>
     </dd>
     <dt>172</dt><dd>
@@ -200,6 +200,9 @@ The history of the Draconis Cluster has been divided into two eras:
     </dd>
     <dt>194</dt><dd>
         Formation of the <a href="../factions/rha.html">RHA</a>
+    </dd>
+    <dt>202</dt><dd>
+        <a href="./events/severed_artery.html">Severed Artery</a><br>
     </dd>
     <dt>214</dt><dd>
         <a href="./events/infiltration_of_the_frontier.html">Infiltration of the Frontier</a><br>

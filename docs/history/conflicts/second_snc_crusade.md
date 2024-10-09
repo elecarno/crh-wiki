@@ -21,7 +21,7 @@ The Second SNC Crusade was a religious and territorial campaign launched by the 
     <dt>158</dt><dd><a href="../events/invasion_of_the_rgu.html">Invasion of the RGU</a></dd>
     <dt>159</dt><dd><a href="../events/fall_of_erebus.html">Fall of Erebus</a></dd>
     <dt>163</dt><dd><a href="../events/battle_for_dione.html">Battle for Dione</a></dd>
-    <dt>164</dt><dd><a href="..//events/operation_scorched_stars.html">Operation Scorched Stars</a>, end of the <a href="./second_snc_crusade.html">Second SNC Crusade</a></dd>
+    <dt>164</dt><dd><a href="..//events/scorched_stars.html">Scorched Stars</a>, end of the <a href="./second_snc_crusade.html">Second SNC Crusade</a></dd>
 </dl>
 
 ----

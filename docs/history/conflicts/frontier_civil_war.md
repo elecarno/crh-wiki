@@ -19,7 +19,7 @@ At the outbreak of the war, the [SSF] and [ISC] quickly moved to build a militar
 ## Timeline (AGC)
 <dl>
     <dt>5</dt><dd>Beginning of the <a href="./frontier_civil_war.html">Frontier Civil War</a></dd>
-    <dt>9</dt><dd><a href="../events/operation_crossroads.html">Operation Crossroads</a></dd>
+    <dt>9</dt><dd><a href="../events/crossroads.html">Crossroads</a></dd>
 </dl>
 
 ----
