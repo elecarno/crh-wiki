@@ -1,8 +1,8 @@
 ---
-title: Temple of Judgement
+title: Segunda
 layout: default
+parent: Katan
 has_toc: false
-parent: Neirri
 ---
 
 TBD

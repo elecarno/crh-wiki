@@ -1,8 +1,8 @@
 ---
-title: Temple of Judgement
+title: Ravcor
 layout: default
+parent: Colossus
 has_toc: false
-parent: Neirri
 ---
 
 TBD

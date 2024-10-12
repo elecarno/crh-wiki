@@ -1,8 +1,8 @@
 ---
-title: Temple of Judgement
+title: Teal
 layout: default
+parent: Jewel
 has_toc: false
-parent: Neirri
 ---
 
 TBD

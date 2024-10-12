@@ -1,8 +1,8 @@
 ---
-title: Temple of Judgement
+title: Atlas Prime
 layout: default
+parent: Atlas
 has_toc: false
-parent: Neirri
 ---
 
 TBD

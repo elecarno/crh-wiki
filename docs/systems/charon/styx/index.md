@@ -1,8 +1,8 @@
 ---
-title: Temple of Judgement
+title: Styx
 layout: default
+parent: Charon
 has_toc: false
-parent: Neirri
 ---
 
 TBD

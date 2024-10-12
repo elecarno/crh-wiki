@@ -40,10 +40,6 @@ W --> X[Geras Trade Corporation]
 X --> Y[Erebus Trade Corporation]
 
 Z(Draconic Haven Protectorate)
-</pre>
-
-<pre class="mermaid">
-flowchart TD
 
 C(Iron Star Crown) --> E[Draconic Star Crown]
 E --> F(Royal Guardian Union)
@@ -55,16 +51,18 @@ D --> K(Red-Helios Alliance)
 H --> K
 E --> L
 </pre>
+
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 
 # Minor Factions
 Smaller factions that have made an appearance or been mentioned in the story of Crossing Red-Helios.
-* Palomar Armourers Guild
 * Arbor Transport Solutions
-* Trident Corporation
+* Johnsons's Atmospherics
 * Karrel-Ivanov
 * Kingsley Aerospace
 * Loray Company
+* Palomar Armourers Guild
 * Russell-Carrington Aerospace
+* Trident Corporation
 
 ----

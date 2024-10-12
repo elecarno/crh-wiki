@@ -1,8 +1,8 @@
 ---
-title: Temple of Judgement
+title: Qun
 layout: default
+parent: Styx
 has_toc: false
-parent: Neirri
 ---
 
 TBD
