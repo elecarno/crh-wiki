@@ -1,5 +1,5 @@
 ---
 title: Characters
 layout: default
-has_toc: false
+has_toc: true
 ---
