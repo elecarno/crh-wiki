@@ -1,7 +1,7 @@
 ---
-title: Neirri
+title: Palomar
 layout: default
-parent: Persephone
+parent: Enyo
 has_toc: false
 ---
 
