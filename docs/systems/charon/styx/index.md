@@ -5,6 +5,14 @@ parent: Charon
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/charon_styx.png" alt="Image of Planet" width="100%"/>
+# Styx
+<dl>
+    <dt>Type</dt><dd>Planet</dd>
+    <!-- <dt>Class</dt><dd>Habitable</dd> -->
+    <dt>Star System</dt><dd><a href="../">Charon</a></dd>
+    <!-- <dt>Controlled by</dt><dd><a href="../../../factions/rgu.html">RGU</a></dd> -->
+    <!-- <dt>Population</dt><dd>///</dd> -->
+</dl>
 
 ----

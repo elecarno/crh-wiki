@@ -5,6 +5,7 @@ parent: Geras
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/geras_galene.png" alt="Image of Planet" width="100%"/>
+# Galene
 
 ----

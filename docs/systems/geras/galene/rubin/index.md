@@ -5,6 +5,7 @@ parent: Galene
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/geras_rubin.png" alt="Image of Planet" width="100%"/>
+# Rubin
 
 ----

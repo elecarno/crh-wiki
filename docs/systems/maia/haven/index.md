@@ -5,6 +5,7 @@ parent: Maia
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/maia_haven.png" alt="Image of Planet" width="100%"/>
+# Haven
 
 ----

@@ -5,6 +5,7 @@ parent: Persephone
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/persephone_neirri.png" alt="Image of Planet" width="100%"/>
+# Neirri
 
 ----

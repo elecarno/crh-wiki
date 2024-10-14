@@ -5,6 +5,7 @@ parent: Moros
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/moros_caelano.png" alt="Image of Planet" width="100%"/>
+# Caelano
 
 ----

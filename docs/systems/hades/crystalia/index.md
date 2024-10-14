@@ -5,6 +5,7 @@ parent: Hades
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/hades_crystalia.png" alt="Image of Planet" width="100%"/>
+# Hades
 
 ----

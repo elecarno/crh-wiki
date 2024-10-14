@@ -5,6 +5,7 @@ parent: Enyo
 has_toc: false
 ---
 
-TBD
+<img src="/img/planets/enyo_palomar.png" alt="Image of Planet" width="100%"/>
+# Palomar
 
 ----

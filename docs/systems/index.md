@@ -7,7 +7,7 @@ has_toc: false
 <img src="../../img/segn2_chart.png" alt="Star Chart of the Draconis Cluster" width="100%"/>
 
 # The Draconis Cluster
-Often alterantively known as "Dracona", the cluster is a collection of stars in the the Large Magellanic Cloud dwarf galaxy. It is comprised of 23 system often split into regions based on astro-geographic and political divisions.
+Often alterantively known as "Dracona", the cluster is a collection of stars in the the Large Magellanic Cloud dwarf galaxy. It is comprised of 23 systems often split into regions based on astro-geographic and political divisions.
 
 ## Stellar North
 * [Hypnos Organa](./hypnos_organa/)
