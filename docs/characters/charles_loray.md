@@ -8,8 +8,8 @@ parent: Characters
 # Charles Loray
 <dl>
     <dt>Faction</dt><dd>LCO</dd>
-    <!-- <dt>Born</dt><dd>///</dd> -->
-    <!-- <dt>Died</dt><dd>///<dd> -->
+    <dt>Born</dt><dd>6 <a href="../history/">BGC</a></dd>
+    <dt>Died</dt><dd>77 <a href="../history/">AGC</a> (age 83)</dd>
 </dl>
 
 ----
