@@ -5,7 +5,7 @@ parent: Styx
 has_toc: false
 ---
 
-<img src="/img/planets/charon_kimi.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/charon_kimi.jpg" alt="Image of Planet" width="100%"/>
 # Kimi
 <dl>
     <dt>Type</dt><dd>Moon</dd>

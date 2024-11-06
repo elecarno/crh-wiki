@@ -5,7 +5,7 @@ parent: Charon
 has_toc: false
 ---
 
-<img src="/img/planets/charon_styx.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/charon_styx.jpg" alt="Image of Planet" width="100%"/>
 # Styx
 <dl>
     <dt>Type</dt><dd>Planet</dd>

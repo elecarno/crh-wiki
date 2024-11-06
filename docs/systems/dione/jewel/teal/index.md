@@ -5,7 +5,7 @@ parent: Jewel
 has_toc: false
 ---
 
-<img src="/img/planets/dione_teal.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/dione_teal.jpg" alt="Image of Planet" width="100%"/>
 # Teal
 <dl>
     <dt>Type</dt><dd>Moon</dd>

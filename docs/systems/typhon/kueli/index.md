@@ -5,7 +5,7 @@ parent: Typhon
 has_toc: false
 ---
 
-<img src="/img/planets/typhon_kueli.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/typhon_kueli.jpg" alt="Image of Planet" width="100%"/>
 # Kueli
 
 ----

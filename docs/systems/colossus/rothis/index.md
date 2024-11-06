@@ -5,7 +5,7 @@ parent: Colossus
 has_toc: false
 ---
 
-<img src="/img/planets/colossus_rothis.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/colossus_rothis.jpg" alt="Image of Planet" width="100%"/>
 # Rothis
 <dl>
     <dt>Type</dt><dd>Planet</dd>

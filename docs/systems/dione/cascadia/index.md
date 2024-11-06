@@ -5,7 +5,7 @@ parent: Dione
 has_toc: false
 ---
 
-<img src="/img/planets/dione_cascadia.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/dione_cascadia.jpg" alt="Image of Planet" width="100%"/>
 # Cascadia
 <dl>
     <dt>Type</dt><dd>Planet</dd>

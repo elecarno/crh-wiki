@@ -5,7 +5,7 @@ parent: Eros
 has_toc: false
 ---
 
-<img src="/img/planets/eros_silona.png" alt="Image of Planet" width="100%"/>
+<img src="/img/planets/eros_silona.jpg" alt="Image of Planet" width="100%"/>
 # Silona
 
 ----
