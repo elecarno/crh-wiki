@@ -9,7 +9,7 @@ has_toc: false
 <dl>
     <dt>Region</dt><dd>Stellar Core</dd>
     <dt>CAS Connections</dt><dd><a href="../moros/">Moros</a>, <a href="../geras/">Geras</a>, <a href="../typhon/">Typhon</a></dd>
-    <dt>Controlled by</dt><dd><a href="../../factions/fhc.html">FHC</a></dd>
+    <dt>Controlled by</dt><dd><a href="../../factions/fhc/">FHC</a></dd>
     <!-- <dt>Population</dt><dd>///</dd> -->
 </dl>
 

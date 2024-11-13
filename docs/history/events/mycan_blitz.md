@@ -10,8 +10,8 @@ The *Mycan Blitz* was a [DFU] naval operation in which the faction launched an a
 
 ----
 
-[DFU]: ../../factions/dfu.html
-[GTC]: ../../factions/etc.html
+[DFU]: ../../factions/dfu/
+[GTC]: ../../factions/etc/
 
 [Myca]: ../../systems/new_helios/
 [New Helios]: ../../systems/new_helios/

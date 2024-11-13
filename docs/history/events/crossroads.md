@@ -12,9 +12,9 @@ The [DFU] aimed to initiate a simultaneous suprise attack on the systems of [Ger
 
 ----
 
-[DFU]: ../../factions/dfu.html
-[SSF]: ../../factions/ssf.html
-[ISC]: ../../factions/isc.html
+[DFU]: ../../factions/dfu/
+[SSF]: ../../factions/ssf/
+[ISC]: ../../factions/isc/
 
 [Frontier Civil War]: ../../history/conflicts/frontier_civil_war.html
 [civil war]: ../../history/conflicts/frontier_civil_war.html

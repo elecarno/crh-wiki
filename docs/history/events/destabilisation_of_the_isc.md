@@ -12,9 +12,9 @@ This sentiment was first solidified with the formation of the [Clear Cascadian S
 
 ----
 
-[ISC]: ../../factions/isc.html
-[SSF]: ../../factions/ssf.html
-[RGU]: ../../factions/rgu.html
+[ISC]: ../../factions/isc/
+[SSF]: ../../factions/ssf/
+[RGU]: ../../factions/rgu/
 
 [BGC]: ../../history/#history
 [AGC]: ../../history/#history

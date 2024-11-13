@@ -12,9 +12,9 @@ Following the [DFU]'s operation [Crossroads] however, the alliance quickly shift
 
 ----
 
-[DFU]: ../../factions/dfu.html
-[SSF]: ../../factions/ssf.html
-[ISC]: ../../factions/isc.html
+[DFU]: ../../factions/dfu/
+[SSF]: ../../factions/ssf/
+[ISC]: ../../factions/isc/
 
 [BGC]: ../../history/#history
 [AGC]: ../../history/#history

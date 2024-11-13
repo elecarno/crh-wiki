@@ -24,9 +24,9 @@ At the outbreak of the war, the [SSF] and [ISC] quickly moved to build a militar
 
 ----
 
-[DFU]: ../../factions/dfu.html
-[SSF]: ../../factions/ssf.html
-[ISC]: ../../factions/isc.html
+[DFU]: ../../factions/dfu/
+[SSF]: ../../factions/ssf/
+[ISC]: ../../factions/isc/
 
 [Frontier]: ../../systems/
 [Draconis Cluster]: ../../systems/

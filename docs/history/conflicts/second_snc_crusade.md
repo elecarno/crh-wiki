@@ -26,12 +26,12 @@ The Second SNC Crusade was a religious and territorial campaign launched by the 
 
 ----
 
-[SNC]: ../../factions/snc.html
-[SSF]: ../../factions/ssf.html
-[RGU]: ../../factions/rgu.html
-[ETC]: ../../factions/etc.html
-[FHC]: ../../factions/fhc.html
-[FSA]: ../../factions/fsa.html
+[SNC]: ../../factions/snc/
+[SSF]: ../../factions/ssf/
+[RGU]: ../../factions/rgu/
+[ETC]: ../../factions/etc/
+[FHC]: ../../factions/fhc/
+[FSA]: ../../factions/fsa/
 
 [First SNC Crusade]: ./first_snc_crusade.html
 

@@ -10,8 +10,8 @@ Ampherity is the largest religion in the [Draconis Cluster] and is institutional
 
 ----
 
-[SNC]: ../../factions/snc.html
-[ISC]: ../../factions/isc.html
+[SNC]: ../../factions/snc
+[ISC]: ../../factions/isc
 
 [Draconis Cluster]: ../../systems/
 

@@ -20,16 +20,16 @@ The First SNC Crusade was a religious and territorial conquest by the [SNC] agai
     <dt>72</dt><dd><a href="../events/invasion_of_hypnos_aria.html">Invasion of Hypnos Aria</a></dd>
     <dt>73</dt><dd><a href="../events/stellar_current.html">Stellar Current</a></dd>
     <dt>76</dt><dd><a href="../events/invasion_hypnos_organa.html">Invasion of Hypnos Organa</a></dd>
-    <dt>80</dt><dd><a href="....//factions/snc.html">SNC</a> control Hypnos Organa.</dd>
+    <dt>80</dt><dd><a href="....//factions/snc/">SNC</a> control Hypnos Organa.</dd>
     <dt>82</dt><dd><a href="../events/battle_for_erebus.html">Battle for Erebus</a>, end of the <a href="./first_snc_crusade.html">First SNC Crusade</a></dd>
 </dl>
 
 ----
 
-[SNC]: ../../factions/snc.html
-[SSF]: ../../factions/ssf.html
-[RGU]: ../../factions/rgu.html
-[GTC]: ../../factions/etc.html
+[SNC]: ../../factions/snc/
+[SSF]: ../../factions/ssf/
+[RGU]: ../../factions/rgu/
+[GTC]: ../../factions/etc/
 
 [Draconis Cluster]: ../../systems/
 [Stellar North]: ../../systems/

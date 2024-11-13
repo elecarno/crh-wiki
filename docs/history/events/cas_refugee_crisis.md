@@ -11,7 +11,7 @@ Following the full withdrawal of the [CAS] from the [Draconis Cluster], the popu
 
 ----
 
-[CAS]: ../../factions/cas.html
+[CAS]: ../../factions/cas/
 
 [BGC]: ../../history/#history
 [AGC]: ../../history/#history

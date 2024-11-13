@@ -21,36 +21,36 @@ The history of the Draconis Cluster has been divided into two eras:
 **BGC Era**
 <dl>
     <dt>112</dt><dd>
-        <a href="../factions/ssf.html">SSF</a> arrives in the Draconis Cluster.<br>
-        <a href="../factions/cas.html">CAS</a> arrives in the Draconis Cluster.
+        <a href="../factions/ssf/">SSF</a> arrives in the Draconis Cluster.<br>
+        <a href="../factions/cas/">CAS</a> arrives in the Draconis Cluster.
     </dd>
     <dt>109</dt><dd>
-        <a href="../factions/isc.html">ISC</a> arrives in the Draconis Cluster.
+        <a href="../factions/isc/">ISC</a> arrives in the Draconis Cluster.
     </dd>
     <dt>106</dt><dd>
-        <a href="../factions/ctc.html">CTC</a> arrives in the Draconis Cluster.
+        <a href="../factions/ctc/">CTC</a> arrives in the Draconis Cluster.
     </dd>
     <dt>98</dt><dd>
         <a href="../systems/">CAS Jump Network</a> is completed.
     </dd>
     <dt>95</dt><dd>
-        <a href="../factions/ssf.html">SSF</a> stakes territorial claims.<br>
-        <a href="../factions/cas.html">CAS</a> stakes territorial claims.
+        <a href="../factions/ssf/">SSF</a> stakes territorial claims.<br>
+        <a href="../factions/cas/">CAS</a> stakes territorial claims.
     </dd>
     <dt>84</dt><dd>
-        <a href="../factions/isc.html">ISC</a> stakes territorial claims.<br>
-        <a href="../factions/ctc.html">CTC</a> stakes territorial claims.
+        <a href="../factions/isc/">ISC</a> stakes territorial claims.<br>
+        <a href="../factions/ctc/">CTC</a> stakes territorial claims.
     </dd>
     <!-- <dt>63</dt><dd>
         All remaining systems are claimed by smaller powers, with the exception of <a href="../systems/colossus/">Colossus</a>.
     </dd> -->
     <dt>41</dt><dd>
-        <a href="../factions/etc.html">CTC</a> collapses in the Milky Way.<br>
-        <a href="../factions/etc.html">CTC</a> (Draconic) becomes <a href="../factions/etc.html">GTC</a>.<br>
+        <a href="../factions/etc/">CTC</a> collapses in the Milky Way.<br>
+        <a href="../factions/etc/">CTC</a> (Draconic) becomes <a href="../factions/etc/">GTC</a>.<br>
         <a href="./events/colonial_collapse">Colonial Collapse</a> begins.
     </dd>
     <dt>38</dt><dd>
-        <a href="../factions/dfu.html">DFU</a> established.
+        <a href="../factions/dfu/">DFU</a> established.
     </dd>
     <dt>37</dt><dd>
         <a href="../characters/mik_helmslow.html">Mik Helmslow</a> born.
@@ -59,19 +59,19 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="./events/mycan_blitz.html">Mycan Blitz</a>
     </dd>
     <dt>30</dt><dd>
-        <a href="../factions/cas.html">CAS</a> officially withdraws from the Draconis Cluster.
+        <a href="../factions/cas/">CAS</a> officially withdraws from the Draconis Cluster.
     </dd>
     <dt>24</dt><dd>
-        <a href="../factions/cas.html">CAS</a> collapses in the Milky Way; traffic to the Draconis Cluster drops sharply.<br>
-        <a href="../factions/cas.html">CAS</a> (Draconic) withdraws from Charon.
+        <a href="../factions/cas/">CAS</a> collapses in the Milky Way; traffic to the Draconis Cluster drops sharply.<br>
+        <a href="../factions/cas/">CAS</a> (Draconic) withdraws from Charon.
     </dd>
     <dt>21</dt><dd>
-        <a href="../factions/cas.html">CAS</a> (Draconic) collapses.<br>
+        <a href="../factions/cas/">CAS</a> (Draconic) collapses.<br>
         <a href="./events/cas_refugee_crisis.html">CAS Refugee Crisis.</a>
     </dd>
     <dt>17</dt><dd>
-        <a href="../factions/isc.html">ISC</a> withdraws in the Milky Way.<br>
-        <a href="../factions/isc.html">ISC</a> (Draconics) becomes independent.
+        <a href="../factions/isc/">ISC</a> withdraws in the Milky Way.<br>
+        <a href="../factions/isc/">ISC</a> (Draconics) becomes independent.
     </dd>
     <dt>13</dt><dd>
         <a href="../characters/jane_artell.html">Jane Artell</a> born.
@@ -115,7 +115,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="./events/massacre_at_silona.html">Massacre at Silona</a>
     </dd>
     <dt>15</dt><dd>
-        <a href="../factions/fhc.html">FHC</a> established.<br>
+        <a href="../factions/fhc/">FHC</a> established.<br>
         <a href="../culture/movements/clear_skies.html#clear-cascadian">Clear Cascadian Skies</a> emerges.
     </dd>
     <dt>18</dt><dd>
@@ -129,7 +129,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="./events/battle_for_edgebreaker_station.html">Battle for Edgebreaker Station</a>
     </dd>
     <dt>26</dt><dd>
-        <a href="../factions/isc.html">ISC</a> reforms into the <a href="../factions/rgu.html">RGU</a>
+        <a href="../factions/isc/">ISC</a> reforms into the <a href="../factions/rgu/">RGU</a>
     </dd>
     <dt>31</dt><dd>
         <a href="./events/battle_for_komorebi.md">Battle for Komorebi</a><br>
@@ -137,17 +137,17 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="../characters/mik_helmslow.html">Mik Helmslow</a> dies.
     </dd>
     <dt>32</dt><dd>
-        <a href="../factions/dfu.html">DFU</a> collapses.<br>
-        <a href="../factions/fhc.html">FHC</a> claims the <a href="../systems/new_helios/">Myca</a> system.
+        <a href="../factions/dfu/">DFU</a> collapses.<br>
+        <a href="../factions/fhc/">FHC</a> claims the <a href="../systems/new_helios/">Myca</a> system.
     </dd>
     <dt>35</dt><dd>
         <a href="../characters/jane_artell.html">Jane Artell</a> dies.
     </dd>
     <dt>41</dt><dd>
-        <a href="../factions/dfu.html">DFU</a> closes the <a href="../systems/maia/">Maia</a> system.
+        <a href="../factions/dfu/">DFU</a> closes the <a href="../systems/maia/">Maia</a> system.
     </dd>
     <dt>45</dt><dd>
-        <a href="../factions/snc.html">SNC</a> established.
+        <a href="../factions/snc/">SNC</a> established.
     </dd>
     <dt>50</dt><dd>
         <a href="../systems/persephone/temple_of_judgement.html">Temple of Judgement</a> constructed.
@@ -174,7 +174,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="../characters/charles_loray.html">Charles Loray</a> dies.
     </dd>
     <dt>80</dt><dd>
-        <a href="../factions/snc.html">SNC</a> control Hypnos Organa.
+        <a href="../factions/snc/">SNC</a> control Hypnos Organa.
     </dd>
     <dt>82</dt><dd>
         <a href="./events/battle_for_erebus.html">Battle for Erebus</a><br>
@@ -182,13 +182,13 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="../characters/vine_conan.html">Vine Conan</a> dies.
     </dd>
     <dt>83</dt><dd>
-        <a href="../factions/etc.html">ETC</a> withdraws from <a href="../systems/geras/">Geras</a>
+        <a href="../factions/etc/">ETC</a> withdraws from <a href="../systems/geras/">Geras</a>
     </dd>
     <dt>93</dt><dd>
         <a href="../characters/anya_derson.html">Anya Derson</a> born.
     </dd>
     <dt>112</dt><dd> 
-        <a href="../factions/fsa.html">FSA</a> established.
+        <a href="../factions/fsa/">FSA</a> established.
     </dd>
     <dt>134</dt><dd>
         <a href="./events/derson_campaign.html">Derson Campaign</a> begins.
@@ -227,8 +227,8 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="../systems/">Isolation of Persephone</a>
     </dd>
     <dt>174</dt><dd>
-        <a href="../factions/ssf.html">SSF</a> collapses.<br>
-        <a href="../factions/ndr.html">NDR</a> established.
+        <a href="../factions/ssf/">SSF</a> collapses.<br>
+        <a href="../factions/ndr/">NDR</a> established.
     </dd>
     <dt>176</dt><dd>
         <a href="./events/embers_campaign.html">Embers Campaign</a> begins.<br>
@@ -244,7 +244,7 @@ The history of the Draconis Cluster has been divided into two eras:
         <a href="../characters/melissa_kery.html">Melissa Kery</a> born.
     </dd>
     <dt>194</dt><dd>
-        <a href="../factions/rha.html">RHA</a> established.
+        <a href="../factions/rha/">RHA</a> established.
     </dd>
     <dt>202</dt><dd>
         <a href="./events/severed_artery.html">Severed Artery</a><br>

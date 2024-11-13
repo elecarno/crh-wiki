@@ -10,10 +10,10 @@ The Colonial Collapse refers to the latter half of the Colonial Era of the [Drac
 
 ----
 
-[SSF]: ../../factions/ssf.html
-[ISC]: ../../factions/isc.html
-[CTC]: ../../factions/ctc.html
-[CAS]: ../../factions/cas.html
+[SSF]: ../../factions/ssf/
+[ISC]: ../../factions/isc/
+[CTC]: ../../factions/ctc/
+[CAS]: ../../factions/cas/
 
 [Draconis Cluster]: ../../systems/
 

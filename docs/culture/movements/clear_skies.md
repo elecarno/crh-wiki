@@ -13,7 +13,7 @@ Clear Cascadian Skies was a political movement originating from the planet [Casc
 
 ----
 
-[ISC]: ../../factions/isc.html
+[ISC]: ../../factions/isc
 
 [BGC]: ../../history/#history
 [AGC]: ../../history/#history
