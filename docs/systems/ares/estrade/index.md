@@ -5,7 +5,7 @@ parent: Ares
 has_toc: false
 ---
 
-<img src="/img/ares_estrade.jpg" alt="Image of Planet" width="100%"/>
+![Image of Planet](/img/ares_estrade.jpg)
 # Estrade
 <dl>
     <dt>Type</dt><dd>Planet</dd>
