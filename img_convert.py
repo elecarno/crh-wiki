@@ -32,5 +32,5 @@ def convert_png_to_jpg(folder_path, quality=85):
 
 if __name__ == "__main__":
     # Example usage
-    folder_path = "./img/planets/"
+    folder_path = "./img/"
     convert_png_to_jpg(folder_path)

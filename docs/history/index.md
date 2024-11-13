@@ -219,6 +219,9 @@ The history of the Draconis Cluster has been divided into two eras:
     <dt>167</dt><dd>
         <a href="../characters/anya_derson.html">Anya Derson</a> dies.
     </dd>
+    <dt>168</dt><dd>
+        <a href="../factions/rca/">RCA</a> established.
+    </dd>
     <dt>171</dt><dd>
         <a href="../characters/armin_cole.html">Arnold Carrick</a> born.
     </dd>

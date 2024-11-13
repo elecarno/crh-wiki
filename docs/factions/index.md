@@ -7,24 +7,24 @@ has_toc: false
 # Major Factions
 ### Great Powers
 The current primary factions dictating the political landscape of the Draconic Cluster.
-* [New Draconic Republic](./ndr.html)
-* [Royal Guardian Union](./rgu.html)
-* [Stellar North Church](./snc.html)
+* [New Draconic Republic](./ndr/)
+* [Royal Guardian Union](./rgu/)
+* [Stellar North Church](./snc/)
 
 ### Regional Powers
 Smaller yet still highly influential factions in the modern Draconic Cluster.
-* [Erebus Trade Corporation](./etc.html)
-* [Free Helion Confederation](./fhc.html)
-* [Frontier Security Assembly](./fsa.html)
-* [Draconic Haven Protectorate](./dhp.html)
-* [Red-Helios Alliance](./rha.html)
+* [Erebus Trade Corporation](./etc/)
+* [Free Helion Confederation](./fhc/)
+* [Frontier Security Assembly](./fsa/)
+* [Draconic Haven Protectorate](./dhp/)
+* [Red-Helios Alliance](./rha/)
 
 ### Colonial
 The first factions originating from the Milky Way that led the colonisation of the Draconis Cluster.
-* [Six Suns Federation](./ssf.html)
-* [Church of the Amber Star](./cas.html)
-* [Iron Star Crown](./isc.html)
-* [Central Trade Corporation](./etc.html)
+* [Six Suns Federation](./ssf/)
+* [Church of the Amber Star](./cas/)
+* [Iron Star Crown](./isc/)
+* [Central Trade Corporation](./etc/)
 
 ### Historical
 Previously influential factions that either no longer exist.
@@ -56,13 +56,17 @@ E --> L
 
 # Minor Factions
 Smaller factions that have made an appearance or been mentioned in the story of Crossing Red-Helios.
+
+## Corporate
 * Arbor Transport Solutions
-* Johnsons's Atmospherics
 * Karrel-Ivanov
 * Kingsley Aerospace
 * Loray Company
-* Palomar Armourers Guild
-* Russell-Carrington Aerospace
+* [Russell-Carrington Aerospace](./rca/)
 * Trident Corporation
+
+## Regional
+* Johnsons's Atmospherics
+* Palomar Armourers Guild
 
 ----

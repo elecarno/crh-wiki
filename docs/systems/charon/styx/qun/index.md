@@ -5,7 +5,7 @@ parent: Styx
 has_toc: false
 ---
 
-<img src="/img/planets/charon_qun.jpg" alt="Image of Planet" width="100%"/>
+<img src="/img/charon_qun.jpg" alt="Image of Planet" width="100%"/>
 # Qun
 <dl>
     <dt>Type</dt><dd>Moon</dd>
